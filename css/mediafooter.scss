@@ -1,0 +1,130 @@
+@media(max-width: 550px){
+    .navigator-footer__logo{
+         margin-bottom: 15px;
+    }
+	.navigator-footer__menu{
+		p{
+			font-size: 22px;
+		}
+		li{
+			font-size: 19px;
+		}
+	}
+	.navigator-footer__content{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.navigator-footer__content{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.navigator-footer__content{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.navigator-footer__block-left{
+		width: 100%;
+	    display: flex;
+		justify-content: center;
+		margin-bottom: 70px;
+	 }
+	 
+	 .navigator-footer__block-right{
+		width: 90%;
+	 }
+     .navigator-footer__content{
+        padding-left: 15px;
+        padding-right: 15px;
+     }
+}
+
+@media(max-width: 500px){
+	.navigator-footer__menu{
+		p{
+			font-size: 23px;
+		}
+		li{
+			font-size: 20px;
+		}
+		ul{
+			padding-right: 50px;
+		}
+	}
+	.navigator-footer__content{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.navigator-footer__content{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.navigator-footer__block-left{
+		width: 100%;
+	    display: flex;
+		justify-content: center;
+		margin-bottom: 70px;
+	 }
+	 
+	 .navigator-footer__block-right{
+		width: 90%;
+	 }
+}
+
+@media(max-width: 440px){
+	.navigator-footer__menu{
+		p{
+			font-size: 30px;
+		}
+		li{
+			font-size: 26px;
+		}
+		flex-wrap: wrap;
+	}
+	.navigator-footer__logo{
+		img{
+			transform: scale(1.7);
+		}
+	}
+	.navigator-footer__menu ul:first-child{
+	  margin-bottom: 20px;
+	}
+}
+
+@media(max-width: 420px){
+	.navigator-footer__content{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.navigator-footer__block-left{
+		width: 100%;
+	    display: flex;
+		justify-content: center;
+		margin-bottom: 70px;
+	 }
+	 
+	 .navigator-footer__block-right{
+		width: 90%;
+	 }
+	 .navigator-footer__menu{
+		p{
+			font-size: 28px;
+		}
+		li{
+			font-size: 24px;
+			margin-bottom: 14px;
+		}
+	}
+	.navigator-footer__logo{
+		img{
+			transform: scale(1.5);
+		}
+	}
+}
+
+
